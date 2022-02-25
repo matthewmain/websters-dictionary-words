@@ -1,0 +1,1252 @@
+{
+	"AD": {
+		"name": "Andorra, Principality of",
+		"region": "Europe",
+		"threeLetterCode": "AND"
+   },
+	"AE": {
+		"name": "United Arab Emirates",
+		"region": "Asia",
+		"threeLetterCode": "ARE"
+   },
+	"AF": {
+		"name": "Afghanistan, Islamic Republic of",
+		"region": "Asia",
+		"threeLetterCode": "AFG"
+   },
+	"AG": {
+		"name": "Antigua and Barbuda",
+		"region": "America",
+		"threeLetterCode": "ATG"
+   },
+	"AI": {
+		"name": "Anguilla",
+		"region": "America",
+		"threeLetterCode": "AIA"
+   },
+	"AL": {
+		"name": "Albania, Republic of",
+		"region": "Europe",
+		"threeLetterCode": "ALB"
+   },
+	"AM": {
+		"name": "Armenia, Republic of",
+		"region": "Asia",
+		"threeLetterCode": "ARM"
+   },
+	"AN": {
+		"name": "Netherlands Antilles",
+		"region": "America",
+		"threeLetterCode": "ANT"
+   },
+	"AO": {
+		"name": "Angola, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "AGO"
+   },
+	"AQ": {
+		"name": "Antarctica (the territory South of 60 deg S)",
+		"region": "Antarctica",
+		"threeLetterCode": "ATA"
+   },
+	"AR": {
+		"name": "Argentina, Argentine Republic",
+		"region": "America",
+		"threeLetterCode": "ARG"
+   },
+	"AS": {
+		"name": "American Samoa",
+		"region": "Oceania",
+		"threeLetterCode": "ASM"
+   },
+	"AT": {
+		"name": "Austria, Republic of",
+		"region": "Europe",
+		"threeLetterCode": "AUT"
+   },
+	"AU": {
+		"name": "Australia, Commonwealth of",
+		"region": "Oceania",
+		"threeLetterCode": "AUS"
+   },
+	"AW": {
+		"name": "Aruba",
+		"region": "America",
+		"threeLetterCode": "ABW"
+   },
+	"AX": {
+		"name": "Åland Islands",
+		"region": "Europe",
+		"threeLetterCode": "ALA"
+   },
+	"AZ": {
+		"name": "Azerbaijan, Republic of",
+		"region": "Asia",
+		"threeLetterCode": "AZE"
+   },
+	"BA": {
+		"name": "Bosnia and Herzegovina",
+		"region": "Europe",
+		"threeLetterCode": "BIH"
+   },
+	"BB": {
+		"name": "Barbados",
+		"region": "America",
+		"threeLetterCode": "BRB"
+   },
+	"BD": {
+		"name": "Bangladesh, People's Republic of",
+		"region": "Asia",
+		"threeLetterCode": "BGD"
+   },
+	"BE": {
+		"name": "Belgium, Kingdom of",
+		"region": "Europe",
+		"threeLetterCode": "BEL"
+   },
+	"BF": {
+		"name": "Burkina Faso",
+		"region": "Africa",
+		"threeLetterCode": "BFA"
+   },
+	"BG": {
+		"name": "Bulgaria, Republic of",
+		"region": "Europe",
+		"threeLetterCode": "BGR"
+   },
+	"BH": {
+		"name": "Bahrain, Kingdom of",
+		"region": "Asia",
+		"threeLetterCode": "BHR"
+   },
+	"BI": {
+		"name": "Burundi, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "BDI"
+   },
+	"BJ": {
+		"name": "Benin, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "BEN"
+   },
+	"BL": {
+		"name": "Saint Barthelemy",
+		"region": "America",
+		"threeLetterCode": "BLM"
+   },
+	"BM": {
+		"name": "Bermuda",
+		"region": "America",
+		"threeLetterCode": "BMU"
+   },
+	"BN": {
+		"name": "Brunei Darussalam",
+		"region": "Asia",
+		"threeLetterCode": "BRN"
+   },
+	"BO": {
+		"name": "Bolivia, Republic of",
+		"region": "America",
+		"threeLetterCode": "BOL"
+   },
+	"BQ": {
+		"name": "Bonaire, Sint Eustatius and Saba",
+		"region": "America",
+		"threeLetterCode": "BES"
+   },
+	"BR": {
+		"name": "Brazil, Federative Republic of",
+		"region": "America",
+		"threeLetterCode": "BRA"
+   },
+	"BS": {
+		"name": "Bahamas, Commonwealth of the",
+		"region": "America",
+		"threeLetterCode": "BHS"
+   },
+	"BT": {
+		"name": "Bhutan, Kingdom of",
+		"region": "Asia",
+		"threeLetterCode": "BTN"
+   },
+	"BV": {
+		"name": "Bouvet Island (Bouvetoya)",
+		"region": "Antarctica",
+		"threeLetterCode": "BVT"
+   },
+	"BW": {
+		"name": "Botswana, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "BWA"
+   },
+	"BY": {
+		"name": "Belarus, Republic of",
+		"region": "Europe",
+		"threeLetterCode": "BLR"
+   },
+	"BZ": {
+		"name": "Belize",
+		"region": "America",
+		"threeLetterCode": "BLZ"
+   },
+	"CA": {
+		"name": "Canada",
+		"region": "America",
+		"threeLetterCode": "CAN"
+   },
+	"CC": {
+		"name": "Cocos (Keeling) Islands",
+		"region": "Asia",
+		"threeLetterCode": "CCK"
+   },
+	"CD": {
+		"name": "Congo, Democratic Republic of the",
+		"region": "Africa",
+		"threeLetterCode": "COD"
+   },
+	"CF": {
+		"name": "Central African Republic",
+		"region": "Africa",
+		"threeLetterCode": "CAF"
+   },
+	"CG": {
+		"name": "Congo, Republic of the",
+		"region": "Africa",
+		"threeLetterCode": "COG"
+   },
+	"CH": {
+		"name": "Switzerland, Swiss Confederation",
+		"region": "Europe",
+		"threeLetterCode": "CHE"
+   },
+	"CI": {
+		"name": "Cote d'Ivoire, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "CIV"
+   },
+	"CK": {
+		"name": "Cook Islands",
+		"region": "Oceania",
+		"threeLetterCode": "COK"
+   },
+	"CL": {
+		"name": "Chile, Republic of",
+		"region": "America",
+		"threeLetterCode": "CHL"
+   },
+	"CM": {
+		"name": "Cameroon, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "CMR"
+   },
+	"CN": {
+		"name": "China, People's Republic of",
+		"region": "Asia",
+		"threeLetterCode": "CHN"
+   },
+	"CO": {
+		"name": "Colombia, Republic of",
+		"region": "America",
+		"threeLetterCode": "COL"
+   },
+	"CR": {
+		"name": "Costa Rica, Republic of",
+		"region": "America",
+		"threeLetterCode": "CRI"
+   },
+	"CU": {
+		"name": "Cuba, Republic of",
+		"region": "America",
+		"threeLetterCode": "CUB"
+   },
+	"CV": {
+		"name": "Cape Verde, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "CPV"
+   },
+	"CW": {
+		"name": "Curaçao",
+		"region": "America",
+		"threeLetterCode": "CUW"
+   },
+	"CX": {
+		"name": "Christmas Island",
+		"region": "Asia",
+		"threeLetterCode": "CXR"
+   },
+	"CY": {
+		"name": "Cyprus, Republic of",
+		"region": "Asia",
+		"threeLetterCode": "CYP"
+   },
+	"CZ": {
+		"name": "Czech Republic",
+		"region": "Europe",
+		"threeLetterCode": "CZE"
+   },
+	"DE": {
+		"name": "Germany, Federal Republic of",
+		"region": "Europe",
+		"threeLetterCode": "DEU"
+   },
+	"DJ": {
+		"name": "Djibouti, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "DJI"
+   },
+	"DK": {
+		"name": "Denmark, Kingdom of",
+		"region": "Europe",
+		"threeLetterCode": "DNK"
+   },
+	"DM": {
+		"name": "Dominica, Commonwealth of",
+		"region": "America",
+		"threeLetterCode": "DMA"
+   },
+	"DO": {
+		"name": "Dominican Republic",
+		"region": "America",
+		"threeLetterCode": "DOM"
+   },
+	"DZ": {
+		"name": "Algeria, People's Democratic Republic of",
+		"region": "Africa",
+		"threeLetterCode": "DZA"
+   },
+	"EC": {
+		"name": "Ecuador, Republic of",
+		"region": "America",
+		"threeLetterCode": "ECU"
+   },
+	"EE": {
+		"name": "Estonia, Republic of",
+		"region": "Europe",
+		"threeLetterCode": "EST"
+   },
+	"EG": {
+		"name": "Egypt, Arab Republic of",
+		"region": "Africa",
+		"threeLetterCode": "EGY"
+   },
+	"EH": {
+		"name": "Western Sahara",
+		"region": "Africa",
+		"threeLetterCode": "ESH"
+   },
+	"ER": {
+		"name": "Eritrea, State of",
+		"region": "Africa",
+		"threeLetterCode": "ERI"
+   },
+	"ES": {
+		"name": "Spain, Kingdom of",
+		"region": "Europe",
+		"threeLetterCode": "ESP"
+   },
+	"ET": {
+		"name": "Ethiopia, Federal Democratic Republic of",
+		"region": "Africa",
+		"threeLetterCode": "ETH"
+   },
+	"FI": {
+		"name": "Finland, Republic of",
+		"region": "Europe",
+		"threeLetterCode": "FIN"
+   },
+	"FJ": {
+		"name": "Fiji, Republic of the Fiji Islands",
+		"region": "Oceania",
+		"threeLetterCode": "FJI"
+   },
+	"FK": {
+		"name": "Falkland Islands (Malvinas)",
+		"region": "America",
+		"threeLetterCode": "FLK"
+   },
+	"FM": {
+		"name": "Micronesia, Federated States of",
+		"region": "Oceania",
+		"threeLetterCode": "FSM"
+   },
+	"FO": {
+		"name": "Faroe Islands",
+		"region": "Europe",
+		"threeLetterCode": "FRO"
+   },
+	"FR": {
+		"name": "France, French Republic",
+		"region": "Europe",
+		"threeLetterCode": "FRA"
+   },
+	"GA": {
+		"name": "Gabon, Gabonese Republic",
+		"region": "Africa",
+		"threeLetterCode": "GAB"
+   },
+	"GB": {
+		"name": "United Kingdom of Great Britain & Northern Ireland",
+		"region": "Europe",
+		"threeLetterCode": "GBR"
+   },
+	"GD": {
+		"name": "Grenada",
+		"region": "America",
+		"threeLetterCode": "GRD"
+   },
+	"GE": {
+		"name": "Georgia",
+		"region": "Asia",
+		"threeLetterCode": "GEO"
+   },
+	"GF": {
+		"name": "French Guiana",
+		"region": "America",
+		"threeLetterCode": "GUF"
+   },
+	"GG": {
+		"name": "Guernsey, Bailiwick of",
+		"region": "Europe",
+		"threeLetterCode": "GGY"
+   },
+	"GH": {
+		"name": "Ghana, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "GHA"
+   },
+	"GI": {
+		"name": "Gibraltar",
+		"region": "Europe",
+		"threeLetterCode": "GIB"
+   },
+	"GL": {
+		"name": "Greenland",
+		"region": "America",
+		"threeLetterCode": "GRL"
+   },
+	"GM": {
+		"name": "Gambia, Republic of the",
+		"region": "Africa",
+		"threeLetterCode": "GMB"
+   },
+	"GN": {
+		"name": "Guinea, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "GIN"
+   },
+	"GP": {
+		"name": "Guadeloupe",
+		"region": "America",
+		"threeLetterCode": "GLP"
+   },
+	"GQ": {
+		"name": "Equatorial Guinea, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "GNQ"
+   },
+	"GR": {
+		"name": "Greece, Hellenic Republic",
+		"region": "Europe",
+		"threeLetterCode": "GRC"
+   },
+	"GS": {
+		"name": "South Georgia and the South Sandwich Islands",
+		"region": "Antarctica",
+		"threeLetterCode": "SGS"
+   },
+	"GT": {
+		"name": "Guatemala, Republic of",
+		"region": "America",
+		"threeLetterCode": "GTM"
+   },
+	"GU": {
+		"name": "Guam",
+		"region": "Oceania",
+		"threeLetterCode": "GUM"
+   },
+	"GW": {
+		"name": "Guinea-Bissau, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "GNB"
+   },
+	"GY": {
+		"name": "Guyana, Co-operative Republic of",
+		"region": "America",
+		"threeLetterCode": "GUY"
+   },
+	"HK": {
+		"name": "Hong Kong, Special Administrative Region of China",
+		"region": "Asia",
+		"threeLetterCode": "HKG"
+   },
+	"HM": {
+		"name": "Heard Island and McDonald Islands",
+		"region": "Antarctica",
+		"threeLetterCode": "HMD"
+   },
+	"HN": {
+		"name": "Honduras, Republic of",
+		"region": "America",
+		"threeLetterCode": "HND"
+   },
+	"HR": {
+		"name": "Croatia, Republic of",
+		"region": "Europe",
+		"threeLetterCode": "HRV"
+   },
+	"HT": {
+		"name": "Haiti, Republic of",
+		"region": "America",
+		"threeLetterCode": "HTI"
+   },
+	"HU": {
+		"name": "Hungary, Republic of",
+		"region": "Europe",
+		"threeLetterCode": "HUN"
+   },
+	"ID": {
+		"name": "Indonesia, Republic of",
+		"region": "Asia",
+		"threeLetterCode": "IDN"
+   },
+	"IE": {
+		"name": "Ireland",
+		"region": "Europe",
+		"threeLetterCode": "IRL"
+   },
+	"IL": {
+		"name": "Israel, State of",
+		"region": "Asia",
+		"threeLetterCode": "ISR"
+   },
+	"IM": {
+		"name": "Isle of Man",
+		"region": "Europe",
+		"threeLetterCode": "IMN"
+   },
+	"IN": {
+		"name": "India, Republic of",
+		"region": "Asia",
+		"threeLetterCode": "IND"
+   },
+	"IO": {
+		"name": "British Indian Ocean Territory (Chagos Archipelago)",
+		"region": "Asia",
+		"threeLetterCode": "IOT"
+   },
+	"IQ": {
+		"name": "Iraq, Republic of",
+		"region": "Asia",
+		"threeLetterCode": "IRQ"
+   },
+	"IR": {
+		"name": "Iran, Islamic Republic of",
+		"region": "Asia",
+		"threeLetterCode": "IRN"
+   },
+	"IS": {
+		"name": "Iceland, Republic of",
+		"region": "Europe",
+		"threeLetterCode": "ISL"
+   },
+	"IT": {
+		"name": "Italy, Italian Republic",
+		"region": "Europe",
+		"threeLetterCode": "ITA"
+   },
+	"JE": {
+		"name": "Jersey, Bailiwick of",
+		"region": "Europe",
+		"threeLetterCode": "JEY"
+   },
+	"JM": {
+		"name": "Jamaica",
+		"region": "America",
+		"threeLetterCode": "JAM"
+   },
+	"JO": {
+		"name": "Jordan, Hashemite Kingdom of",
+		"region": "Asia",
+		"threeLetterCode": "JOR"
+   },
+	"JP": {
+		"name": "Japan",
+		"region": "Asia",
+		"threeLetterCode": "JPN"
+   },
+	"KE": {
+		"name": "Kenya, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "KEN"
+   },
+	"KG": {
+		"name": "Kyrgyz Republic",
+		"region": "Asia",
+		"threeLetterCode": "KGZ"
+   },
+	"KH": {
+		"name": "Cambodia, Kingdom of",
+		"region": "Asia",
+		"threeLetterCode": "KHM"
+   },
+	"KI": {
+		"name": "Kiribati, Republic of",
+		"region": "Oceania",
+		"threeLetterCode": "KIR"
+   },
+	"KM": {
+		"name": "Comoros, Union of the",
+		"region": "Africa",
+		"threeLetterCode": "COM"
+   },
+	"KN": {
+		"name": "Saint Kitts and Nevis, Federation of",
+		"region": "America",
+		"threeLetterCode": "KNA"
+   },
+	"KP": {
+		"name": "Korea, Democratic People's Republic of",
+		"region": "Asia",
+		"threeLetterCode": "PRK"
+   },
+	"KR": {
+		"name": "Korea, Republic of",
+		"region": "Asia",
+		"threeLetterCode": "KOR"
+   },
+	"KW": {
+		"name": "Kuwait, State of",
+		"region": "Asia",
+		"threeLetterCode": "KWT"
+   },
+	"KY": {
+		"name": "Cayman Islands",
+		"region": "America",
+		"threeLetterCode": "CYM"
+   },
+	"KZ": {
+		"name": "Kazakhstan, Republic of",
+		"region": "Asia",
+		"threeLetterCode": "KAZ"
+   },
+	"LA": {
+		"name": "Lao People's Democratic Republic",
+		"region": "Asia",
+		"threeLetterCode": "LAO"
+   },
+	"LB": {
+		"name": "Lebanon, Lebanese Republic",
+		"region": "Asia",
+		"threeLetterCode": "LBN"
+   },
+	"LC": {
+		"name": "Saint Lucia",
+		"region": "America",
+		"threeLetterCode": "LCA"
+   },
+	"LI": {
+		"name": "Liechtenstein, Principality of",
+		"region": "Europe",
+		"threeLetterCode": "LIE"
+   },
+	"LK": {
+		"name": "Sri Lanka, Democratic Socialist Republic of",
+		"region": "Asia",
+		"threeLetterCode": "LKA"
+   },
+	"LR": {
+		"name": "Liberia, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "LBR"
+   },
+	"LS": {
+		"name": "Lesotho, Kingdom of",
+		"region": "Africa",
+		"threeLetterCode": "LSO"
+   },
+	"LT": {
+		"name": "Lithuania, Republic of",
+		"region": "Europe",
+		"threeLetterCode": "LTU"
+   },
+	"LU": {
+		"name": "Luxembourg, Grand Duchy of",
+		"region": "Europe",
+		"threeLetterCode": "LUX"
+   },
+	"LV": {
+		"name": "Latvia, Republic of",
+		"region": "Europe",
+		"threeLetterCode": "LVA"
+   },
+	"LY": {
+		"name": "Libyan Arab Jamahiriya",
+		"region": "Africa",
+		"threeLetterCode": "LBY"
+   },
+	"MA": {
+		"name": "Morocco, Kingdom of",
+		"region": "Africa",
+		"threeLetterCode": "MAR"
+   },
+	"MC": {
+		"name": "Monaco, Principality of",
+		"region": "Europe",
+		"threeLetterCode": "MCO"
+   },
+	"MD": {
+		"name": "Moldova, Republic of",
+		"region": "Europe",
+		"threeLetterCode": "MDA"
+   },
+	"ME": {
+		"name": "Montenegro, Republic of",
+		"region": "Europe",
+		"threeLetterCode": "MNE"
+   },
+	"MF": {
+		"name": "Saint Martin",
+		"region": "America",
+		"threeLetterCode": "MAF"
+   },
+	"MG": {
+		"name": "Madagascar, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "MDG"
+   },
+	"MH": {
+		"name": "Marshall Islands, Republic of the",
+		"region": "Oceania",
+		"threeLetterCode": "MHL"
+   },
+	"MK": {
+		"name": "Macedonia, The Former Yugoslav Republic of",
+		"region": "Europe",
+		"threeLetterCode": "MKD"
+   },
+	"ML": {
+		"name": "Mali, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "MLI"
+   },
+	"MM": {
+		"name": "Myanmar, Union of",
+		"region": "Asia",
+		"threeLetterCode": "MMR"
+   },
+	"MN": {
+		"name": "Mongolia",
+		"region": "Asia",
+		"threeLetterCode": "MNG"
+   },
+	"MO": {
+		"name": "Macao, Special Administrative Region of China",
+		"region": "Asia",
+		"threeLetterCode": "MAC"
+   },
+	"MP": {
+		"name": "Northern Mariana Islands, Commonwealth of the",
+		"region": "Oceania",
+		"threeLetterCode": "MNP"
+   },
+	"MQ": {
+		"name": "Martinique",
+		"region": "America",
+		"threeLetterCode": "MTQ"
+   },
+	"MR": {
+		"name": "Mauritania, Islamic Republic of",
+		"region": "Africa",
+		"threeLetterCode": "MRT"
+   },
+	"MS": {
+		"name": "Montserrat",
+		"region": "America",
+		"threeLetterCode": "MSR"
+   },
+	"MT": {
+		"name": "Malta, Republic of",
+		"region": "Europe",
+		"threeLetterCode": "MLT"
+   },
+	"MU": {
+		"name": "Mauritius, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "MUS"
+   },
+	"MV": {
+		"name": "Maldives, Republic of",
+		"region": "Asia",
+		"threeLetterCode": "MDV"
+   },
+	"MW": {
+		"name": "Malawi, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "MWI"
+   },
+	"MX": {
+		"name": "Mexico, United Mexican States",
+		"region": "America",
+		"threeLetterCode": "MEX"
+   },
+	"MY": {
+		"name": "Malaysia",
+		"region": "Asia",
+		"threeLetterCode": "MYS"
+   },
+	"MZ": {
+		"name": "Mozambique, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "MOZ"
+   },
+	"NA": {
+		"name": "Namibia, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "NAM"
+   },
+	"NC": {
+		"name": "New Caledonia",
+		"region": "Oceania",
+		"threeLetterCode": "NCL"
+   },
+	"NE": {
+		"name": "Niger, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "NER"
+   },
+	"NF": {
+		"name": "Norfolk Island",
+		"region": "Oceania",
+		"threeLetterCode": "NFK"
+   },
+	"NG": {
+		"name": "Nigeria, Federal Republic of",
+		"region": "Africa",
+		"threeLetterCode": "NGA"
+   },
+	"NI": {
+		"name": "Nicaragua, Republic of",
+		"region": "America",
+		"threeLetterCode": "NIC"
+   },
+	"NL": {
+		"name": "Netherlands, Kingdom of the",
+		"region": "Europe",
+		"threeLetterCode": "NLD"
+   },
+	"NO": {
+		"name": "Norway, Kingdom of",
+		"region": "Europe",
+		"threeLetterCode": "NOR"
+   },
+	"NP": {
+		"name": "Nepal, State of",
+		"region": "Asia",
+		"threeLetterCode": "NPL"
+   },
+	"NR": {
+		"name": "Nauru, Republic of",
+		"region": "Oceania",
+		"threeLetterCode": "NRU"
+   },
+	"NU": {
+		"name": "Niue",
+		"region": "Oceania",
+		"threeLetterCode": "NIU"
+   },
+	"NZ": {
+		"name": "New Zealand",
+		"region": "Oceania",
+		"threeLetterCode": "NZL"
+   },
+	"OM": {
+		"name": "Oman, Sultanate of",
+		"region": "Asia",
+		"threeLetterCode": "OMN"
+   },
+	"PA": {
+		"name": "Panama, Republic of",
+		"region": "America",
+		"threeLetterCode": "PAN"
+   },
+	"PE": {
+		"name": "Peru, Republic of",
+		"region": "America",
+		"threeLetterCode": "PER"
+   },
+	"PF": {
+		"name": "French Polynesia",
+		"region": "Oceania",
+		"threeLetterCode": "PYF"
+   },
+	"PG": {
+		"name": "Papua New Guinea, Independent State of",
+		"region": "Oceania",
+		"threeLetterCode": "PNG"
+   },
+	"PH": {
+		"name": "Philippines, Republic of the",
+		"region": "Asia",
+		"threeLetterCode": "PHL"
+   },
+	"PK": {
+		"name": "Pakistan, Islamic Republic of",
+		"region": "Asia",
+		"threeLetterCode": "PAK"
+   },
+	"PL": {
+		"name": "Poland, Republic of",
+		"region": "Europe",
+		"threeLetterCode": "POL"
+   },
+	"PM": {
+		"name": "Saint Pierre and Miquelon",
+		"region": "America",
+		"threeLetterCode": "SPM"
+   },
+	"PN": {
+		"name": "Pitcairn Islands",
+		"region": "Oceania",
+		"threeLetterCode": "PCN"
+   },
+	"PR": {
+		"name": "Puerto Rico, Commonwealth of",
+		"region": "America",
+		"threeLetterCode": "PRI"
+   },
+	"PS": {
+		"name": "Palestinian Territory, Occupied",
+		"region": "Asia",
+		"threeLetterCode": "PSE"
+   },
+	"PT": {
+		"name": "Portugal, Portuguese Republic",
+		"region": "Europe",
+		"threeLetterCode": "PRT"
+   },
+	"PW": {
+		"name": "Palau, Republic of",
+		"region": "Oceania",
+		"threeLetterCode": "PLW"
+   },
+	"PY": {
+		"name": "Paraguay, Republic of",
+		"region": "America",
+		"threeLetterCode": "PRY"
+   },
+	"QA": {
+		"name": "Qatar, State of",
+		"region": "Asia",
+		"threeLetterCode": "QAT"
+   },
+	"RE": {
+		"name": "Reunion",
+		"region": "Africa",
+		"threeLetterCode": "REU"
+   },
+	"RO": {
+		"name": "Romania",
+		"region": "Europe",
+		"threeLetterCode": "ROU"
+   },
+	"RS": {
+		"name": "Serbia, Republic of",
+		"region": "Europe",
+		"threeLetterCode": "SRB"
+   },
+	"RU": {
+		"name": "Russian Federation",
+		"region": "Asia",
+		"threeLetterCode": "RUS"
+   },
+	"RW": {
+		"name": "Rwanda, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "RWA"
+   },
+	"SA": {
+		"name": "Saudi Arabia, Kingdom of",
+		"region": "Asia",
+		"threeLetterCode": "SAU"
+   },
+	"SB": {
+		"name": "Solomon Islands",
+		"region": "Oceania",
+		"threeLetterCode": "SLB"
+   },
+	"SC": {
+		"name": "Seychelles, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "SYC"
+   },
+	"SD": {
+		"name": "Sudan, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "SDN"
+   },
+	"SE": {
+		"name": "Sweden, Kingdom of",
+		"region": "Europe",
+		"threeLetterCode": "SWE"
+   },
+	"SG": {
+		"name": "Singapore, Republic of",
+		"region": "Asia",
+		"threeLetterCode": "SGP"
+   },
+	"SH": {
+		"name": "Saint Helena",
+		"region": "Africa",
+		"threeLetterCode": "SHN"
+   },
+	"SI": {
+		"name": "Slovenia, Republic of",
+		"region": "Europe",
+		"threeLetterCode": "SVN"
+   },
+	"SJ": {
+		"name": "Svalbard & Jan Mayen Islands",
+		"region": "Europe",
+		"threeLetterCode": "SJM"
+   },
+	"SK": {
+		"name": "Slovakia (Slovak Republic)",
+		"region": "Europe",
+		"threeLetterCode": "SVK"
+   },
+	"SL": {
+		"name": "Sierra Leone, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "SLE"
+   },
+	"SM": {
+		"name": "San Marino, Republic of",
+		"region": "Europe",
+		"threeLetterCode": "SMR"
+   },
+	"SN": {
+		"name": "Senegal, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "SEN"
+   },
+	"SO": {
+		"name": "Somalia, Somali Republic",
+		"region": "Africa",
+		"threeLetterCode": "SOM"
+   },
+	"SR": {
+		"name": "Suriname, Republic of",
+		"region": "America",
+		"threeLetterCode": "SUR"
+   },
+	"SS": {
+		"name": "South Sudan",
+		"region": "Africa",
+		"threeLetterCode": "SSD"
+   },
+	"ST": {
+		"name": "Sao Tome and Principe, Democratic Republic of",
+		"region": "Africa",
+		"threeLetterCode": "STP"
+   },
+	"SV": {
+		"name": "El Salvador, Republic of",
+		"region": "America",
+		"threeLetterCode": "SLV"
+   },
+	"SX": {
+		"name": "Sint Maarten (Netherlands)",
+		"region": "America",
+		"threeLetterCode": "SXM"
+   },
+	"SY": {
+		"name": "Syrian Arab Republic",
+		"region": "Asia",
+		"threeLetterCode": "SYR"
+   },
+	"SZ": {
+		"name": "Swaziland, Kingdom of",
+		"region": "Africa",
+		"threeLetterCode": "SWZ"
+   },
+	"TC": {
+		"name": "Turks and Caicos Islands",
+		"region": "America",
+		"threeLetterCode": "TCA"
+   },
+	"TD": {
+		"name": "Chad, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "TCD"
+   },
+	"TF": {
+		"name": "French Southern Territories",
+		"region": "Antarctica",
+		"threeLetterCode": "ATF"
+   },
+	"TG": {
+		"name": "Togo, Togolese Republic",
+		"region": "Africa",
+		"threeLetterCode": "TGO"
+   },
+	"TH": {
+		"name": "Thailand, Kingdom of",
+		"region": "Asia",
+		"threeLetterCode": "THA"
+   },
+	"TJ": {
+		"name": "Tajikistan, Republic of",
+		"region": "Asia",
+		"threeLetterCode": "TJK"
+   },
+	"TK": {
+		"name": "Tokelau",
+		"region": "Oceania",
+		"threeLetterCode": "TKL"
+   },
+	"TL": {
+		"name": "Timor-Leste, Democratic Republic of",
+		"region": "Asia",
+		"threeLetterCode": "TLS"
+   },
+	"TM": {
+		"name": "Turkmenistan",
+		"region": "Asia",
+		"threeLetterCode": "TKM"
+   },
+	"TN": {
+		"name": "Tunisia, Tunisian Republic",
+		"region": "Africa",
+		"threeLetterCode": "TUN"
+   },
+	"TO": {
+		"name": "Tonga, Kingdom of",
+		"region": "Oceania",
+		"threeLetterCode": "TON"
+   },
+	"TR": {
+		"name": "Turkey, Republic of",
+		"region": "Asia",
+		"threeLetterCode": "TUR"
+   },
+	"TT": {
+		"name": "Trinidad and Tobago, Republic of",
+		"region": "America",
+		"threeLetterCode": "TTO"
+   },
+	"TV": {
+		"name": "Tuvalu",
+		"region": "Oceania",
+		"threeLetterCode": "TUV"
+   },
+	"TW": {
+		"name": "Taiwan",
+		"region": "Asia",
+		"threeLetterCode": "TWN"
+   },
+	"TZ": {
+		"name": "Tanzania, United Republic of",
+		"region": "Africa",
+		"threeLetterCode": "TZA"
+   },
+	"UA": {
+		"name": "Ukraine",
+		"region": "Europe",
+		"threeLetterCode": "UKR"
+   },
+	"UG": {
+		"name": "Uganda, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "UGA"
+   },
+	"UM": {
+		"name": "United States Minor Outlying Islands",
+		"region": "America",
+		"threeLetterCode": "UMI"
+   },
+	"US": {
+		"name": "United States of America",
+		"region": "America",
+		"threeLetterCode": "USA"
+   },
+	"UY": {
+		"name": "Uruguay, Eastern Republic of",
+		"region": "America",
+		"threeLetterCode": "URY"
+   },
+	"UZ": {
+		"name": "Uzbekistan, Republic of",
+		"region": "Asia",
+		"threeLetterCode": "UZB"
+   },
+	"VA": {
+		"name": "Holy See (Vatican City State)",
+		"region": "Europe",
+		"threeLetterCode": "VAT"
+   },
+	"VC": {
+		"name": "Saint Vincent and the Grenadines",
+		"region": "America",
+		"threeLetterCode": "VCT"
+   },
+	"VE": {
+		"name": "Venezuela, Bolivarian Republic of",
+		"region": "America",
+		"threeLetterCode": "VEN"
+   },
+	"VG": {
+		"name": "British Virgin Islands",
+		"region": "America",
+		"threeLetterCode": "VGB"
+   },
+	"VI": {
+		"name": "United States Virgin Islands",
+		"region": "America",
+		"threeLetterCode": "VIR"
+   },
+	"VN": {
+		"name": "Vietnam, Socialist Republic of",
+		"region": "Asia",
+		"threeLetterCode": "VNM"
+   },
+	"VU": {
+		"name": "Vanuatu, Republic of",
+		"region": "Oceania",
+		"threeLetterCode": "VUT"
+   },
+	"WF": {
+		"name": "Wallis and Futuna",
+		"region": "Oceania",
+		"threeLetterCode": "WLF"
+   },
+	"WS": {
+		"name": "Samoa, Independent State of",
+		"region": "Oceania",
+		"threeLetterCode": "WSM"
+   },
+	"YE": {
+		"name": "Yemen",
+		"region": "Asia",
+		"threeLetterCode": "YEM"
+   },
+	"YT": {
+		"name": "Mayotte",
+		"region": "Africa",
+		"threeLetterCode": "MYT"
+   },
+	"ZA": {
+		"name": "South Africa, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "ZAF"
+   },
+	"ZM": {
+		"name": "Zambia, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "ZMB"
+   },
+	"ZW": {
+		"name": "Zimbabwe, Republic of",
+		"region": "Africa",
+		"threeLetterCode": "ZWE"
+   }
+}
