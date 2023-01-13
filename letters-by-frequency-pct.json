@@ -1,0 +1,30 @@
+// frequency letter appears in "quality" 5-letter words in total, as percent of all quality letters ("quality" words have > 0.5 frequency score and aren't plurals, regular past tense, etc.)
+
+[ 
+	{ "letter": "A", "frequencyPct": 10.5 }, 
+	{ "letter": "E", "frequencyPct": 10.3 }, 
+	{ "letter": "R", "frequencyPct": 7.2 }, 
+	{ "letter": "O", "frequencyPct": 7.1 }, 
+	{ "letter": "T", "frequencyPct": 6.8 }, 
+	{ "letter": "I", "frequencyPct": 6.3 }, 
+	{ "letter": "L", "frequencyPct": 6.3 }, 
+	{ "letter": "S", "frequencyPct": 5.9 }, 
+	{ "letter": "N", "frequencyPct": 5.6 }, 
+	{ "letter": "C", "frequencyPct": 4.5 }, 
+	{ "letter": "H", "frequencyPct": 3.8 }, 
+	{ "letter": "U", "frequencyPct": 3.6 }, 
+	{ "letter": "M", "frequencyPct": 3.1 }, 
+	{ "letter": "D", "frequencyPct": 3.0 }, 
+	{ "letter": "P", "frequencyPct": 2.8 }, 
+	{ "letter": "G", "frequencyPct": 2.7 }, 
+	{ "letter": "B", "frequencyPct": 2.4 }, 
+	{ "letter": "F", "frequencyPct": 1.7 }, 
+	{ "letter": "K", "frequencyPct": 1.5 }, 
+	{ "letter": "W", "frequencyPct": 1.5 }, 
+	{ "letter": "V", "frequencyPct": 1.4 }, 
+	{ "letter": "Y", "frequencyPct": 0.7 }, 
+	{ "letter": "X", "frequencyPct": 0.4 }, 
+	{ "letter": "Z", "frequencyPct": 0.3 }, 
+	{ "letter": "Q", "frequencyPct": 0.3 }, 
+	{ "letter": "J", "frequencyPct": 0.2 }
+]
