@@ -1,4 +1,4 @@
-// frequency letter appears in "quality" 5-letter words in total, as percent of all quality letters ("quality" words have > 0.5 frequency score and aren't plurals, regular past tense, etc.)
+// frequency letters appear in "quality" 5-letter words in total, as percent of all quality-word letters ("quality" words have > 0.5 frequency score and aren't plurals, regular past tense, etc.)
 
 [ 
 	{ "letter": "A", "frequencyPct": 10.5 }, 
