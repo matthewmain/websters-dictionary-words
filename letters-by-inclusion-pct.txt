@@ -1,0 +1,30 @@
+// instances letters appear in "quality" 5-letter words at least once, as percent of all quality words ("quality" words have > 0.5 frequency score and aren't plurals, regular past tense, etc.: https://github.com/matthewmain/datasets-lists-and-dictionaries/blob/main/mostly-quality-five-letter-words-by-frequency.json)
+
+[ 
+	{ "letter": "A", "InstancesPct": 46.8 }, 
+	{ "letter": "E", "InstancesPct": 44.8 }, 
+	{ "letter": "R", "InstancesPct": 34.7 }, 
+	{ "letter": "O", "InstancesPct": 32.1 }, 
+	{ "letter": "T", "InstancesPct": 31.5 }, 
+	{ "letter": "I", "InstancesPct": 29.7 }, 
+	{ "letter": "L", "InstancesPct": 28.7 }, 
+	{ "letter": "S", "InstancesPct": 27.6 }, 
+	{ "letter": "N", "InstancesPct": 27.1 }, 
+	{ "letter": "C", "InstancesPct": 21.1 }, 
+	{ "letter": "H", "InstancesPct": 18.6 }, 
+	{ "letter": "U", "InstancesPct": 17.9 }, 
+	{ "letter": "D", "InstancesPct": 14.7 }, 
+	{ "letter": "M", "InstancesPct": 14.2 }, 
+	{ "letter": "P", "InstancesPct": 13.4 }, 
+	{ "letter": "G", "InstancesPct": 13.3 }, 
+	{ "letter": "B", "InstancesPct": 11.8 }, 
+	{ "letter": "F", "InstancesPct": 8.0 }, 
+	{ "letter": "W", "InstancesPct": 7.2 }, 
+	{ "letter": "K", "InstancesPct": 7.1 }, 
+	{ "letter": "V", "InstancesPct": 6.8 }, 
+	{ "letter": "Y", "InstancesPct": 3.6 }, 
+	{ "letter": "X", "InstancesPct": 1.8 }, 
+	{ "letter": "Q", "InstancesPct": 1.6 },
+	{ "letter": "Z", "InstancesPct": 1.5 }, 
+	{ "letter": "J", "InstancesPct": 1.0 }
+]
