@@ -1,4 +1,4 @@
-// frequency letters appear in "quality" 5-letter words in total, as percent of all quality-word letters ("quality" words have > 0.5 frequency score and aren't plurals, regular past tense, etc.: https://github.com/matthewmain/datasets-lists-and-dictionaries/blob/main/mostly-quality-five-letter-words-by-frequency.json)
+// frequency letters appear in "quality" 5-letter words in total, as percent of all quality-word letters ("quality" words have > 0.5 frequency score and aren't plurals, past tense, proper nouns, etc.: https://github.com/matthewmain/datasets-lists-and-dictionaries/blob/main/quality-five-letter-words-by-frequency.json)
 
 { 
 	"letter": "E", "frequencyPct": "10.5", 
